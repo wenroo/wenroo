@@ -1,32 +1,24 @@
-wenroo
-======
+#wenroo
 
-MVC
---------
+##MVC
 
-Backbone
---------
+- Backbone
 ```bash
 git clone git://github.com/backbone/backbone.git
 ```
 
-Jquery
-------
+- Jquery
 ```bash
 git clone git://github.com/jquery/jquery.git
 ```
 
-Seajs
---------
+## Require
+
+- Seajs
 ```bash
 git clone git://github.com/seajs/seajs.git
 ```
 
-WEBAPP
---------
-adaptUILayout.js
+##WEBAPP
+- (https://github.com/wenroo/wenroo/blob/master/webapp-cookbook/adaptUILayout.js "adaptUILayout.js")
 //When you fixed device width, width Android auto set targetDensitydpi
-
-```bash
-git clone git://github.com/seajs/seajs.git
-```
